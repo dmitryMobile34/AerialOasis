@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "631329804292",
+    "project_id": "aerial-oasis",
+    "storage_bucket": "aerial-oasis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631329804292:android:153e2aef9f1ef00f5e6551",
+        "android_client_info": {
+          "package_name": "com.appxplore.clawstar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631329804292-in6vmrfsah4v2d5b8mptj7dbrigoc0g9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANjKXE9R3yKH1LhJOKDoXrn1JobxcCTsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631329804292-in6vmrfsah4v2d5b8mptj7dbrigoc0g9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
