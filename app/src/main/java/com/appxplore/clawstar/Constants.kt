@@ -15,7 +15,7 @@ object Constants {
     var Campaign2: String? = "camp2"
     var Campaign3: String? = "camp3"
 
-    var FilterLink = "https://aerialoasis.site/F8u2x?"
+    var FilterLink = "https://tracker.infinitum.works/Kc1QY2?"
 
     var asyncResult: String? = ""
     var subber1 = "sub_id_1="

@@ -240,7 +240,7 @@ class WebView : AppCompatActivity() {
 
 
         val first = "https://"
-        val second = "aerialoasis.site/dJ53M"
+        val second = "tracker.infinitum.works/NQpRMh"
 
         val androidVersion = android.os.Build.VERSION.RELEASE
 

@@ -13,6 +13,7 @@ class FilterAct : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_filter)
+
         val txtEr: TextView = findViewById(R.id.inviteTxt)
         runBlocking {
 

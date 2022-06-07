@@ -20,8 +20,6 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        Intent(applicationContext, Gameplay::class.java).also { startActivity(it) }
-
         val prefs = getSharedPreferences("ActivityPREF", MODE_PRIVATE)
 
         if (prefs.getBoolean("activity_exec", false)) {
